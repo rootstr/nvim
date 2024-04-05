@@ -16,5 +16,5 @@ local opts = {}
 require("vim_core")
 require("lazy").setup("plugins")
 
--- Availables: catppuccin, tokyonight, kanagawa
-vim.cmd.colorscheme "kanagawa"
+-- Availables: catppuccin, tokyonight, kanagawa, gruvbox
+vim.cmd.colorscheme "gruvbox"
